@@ -1,0 +1,27 @@
+{
+  "name": "seven",
+  "version": "1.0.0",
+  "description": "\"# seven2.0\"",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.7.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish2788/seven2.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manish2788/seven2.0/issues"
+  },
+  "homepage": "https://github.com/manish2788/seven2.0#readme"
+}
